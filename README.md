@@ -37,7 +37,7 @@ set __fish_git_prompt_color_branch_cleanstate green
 
 ## License
 
-This SDK is distributed under the MIT License.  See the LICENSE file for more details.
+MIT.  See the LICENSE file for more details.
 
 ## Donations
 
