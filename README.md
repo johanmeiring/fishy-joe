@@ -10,6 +10,10 @@ A theme for [Oh My Fish](https://www.github.com/oh-my-fish/oh-my-fish).
 
 ```fish
 $ omf install https://github.com/johanmeiring/fishy-joe
+Updating https://github.com/oh-my-fish/packages-main master... Done!
+Installing package fishy-joe
+✔ fishy-joe successfully installed.
+$ omf theme fishy-joe
 ...
 ```
 
